@@ -1,0 +1,49 @@
+
+#div1 {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+#div2 {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
+
+#div3 {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+}
+
+#div4 {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
+
+.spaceEvenly {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.justifyContent-right {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}
+
+.wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.columnReverce {
+    display: flex;
+    flex-direction: column-reverse;
+    
+}
+
+
